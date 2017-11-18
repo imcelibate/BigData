@@ -1,0 +1,1 @@
+/tmp/hadoop-imcelibate/mapred/local/1506780693051/DistributedCacheStopWords.txt
